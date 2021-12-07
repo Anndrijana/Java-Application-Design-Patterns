@@ -1,4 +1,4 @@
-## Opis zahteva za projekat iz predmeta Dizajnerski zadaci za 2019/2020
+## Opis zahteva za projekat iz predmeta Dizajnerski obrasci za 2019/2020
 Korišćenjem *Java Swing* implementirati desktop aplikaciju za rad sa 2D grafikom. Aplikacija mora podržavati funkcionalnosti koje su rađene u projektnom zadatku na predmetu Objektno orijentisane informacione tehnologije.
 Izmene/Dodatne funkcionalnosti:
 1. crtanje oblika različitim bojama (boja ivice i boja unutrašnjosti) za šta je potrebno koristiti *JColorChooser* klasu,
